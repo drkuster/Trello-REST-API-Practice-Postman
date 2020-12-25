@@ -1,0 +1,24 @@
+{
+	"id": "bb03afab-c886-439d-8314-97a267877fa2",
+	"name": "Trello",
+	"values": [
+		{
+			"key": "boardNum",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "trelloKey",
+			"value": "YOUR_KEY",
+			"enabled": true
+		},
+		{
+			"key": "trelloToken",
+			"value": "YOUR_TOKEN",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2020-12-25T23:42:28.876Z",
+	"_postman_exported_using": "Postman/7.36.1"
+}
