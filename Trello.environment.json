@@ -9,16 +9,16 @@
 		},
 		{
 			"key": "trelloKey",
-			"value": "YOUR_KEY",
+			"value": "732cb78c84e3b0ca3c01a6a895d77e5b",
 			"enabled": true
 		},
 		{
 			"key": "trelloToken",
-			"value": "YOUR_TOKEN",
+			"value": "f1fbd0e0045b310326808e58e5ffd28fbd8de69cc30241f0b902351e4fbfa27f",
 			"enabled": true
 		}
 	],
 	"_postman_variable_scope": "environment",
-	"_postman_exported_at": "2020-12-25T23:42:28.876Z",
+	"_postman_exported_at": "2020-12-25T23:53:00.749Z",
 	"_postman_exported_using": "Postman/7.36.1"
 }
